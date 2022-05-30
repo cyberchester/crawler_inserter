@@ -1,0 +1,7 @@
+pyrogram
+TgCrypto
+python-dotenv
+hachoir
+ffmpeg-python
+opencv-python-headless==4.2.0.32
+
